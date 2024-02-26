@@ -1,0 +1,603 @@
+@media only screen and (max-width: 767px) {
+	
+    .login-hed {
+        display: none;
+    }.nav-menu > li {
+        text-align: left;
+    }.study h1 {
+        font-size: 37px;
+        line-height: 51px;
+    }
+    
+    .study p {
+        font-size: 18px;
+    }
+    
+    .clas-serch .btn.btn-primary {
+        width: 18%;
+    }.clas-serch .form-outline {
+        width: 81%;
+    }.col-md-6.tulat-mtr {
+        display: none;
+    }.classia {
+        padding: 32px 0;
+    }.sec-title {
+        font-size: 26px;
+        text-align: center;
+    }
+    
+    .eduratitle p {
+        font-size: 15px;
+        text-align: center;
+    }
+    
+    .th-btn {
+        text-align: center;
+    }
+    
+    .th-btn a {
+        font-size: 20px;
+    }.study {
+        text-align: center;
+    }.info-crs a {
+        display: inline-block;
+    }.course-box {
+        margin: 0 5px;
+    }.slider-mobilecat.mbs-arow .category-card {
+        margin: 0 4px;
+    }
+        
+    .slider-mobilecat.mbs-arow .slick-list.draggable {
+        padding: 0 4px 25px;
+    }
+    
+    .category-card a {
+    display: inline-block;
+        width: 100%;
+    }
+    
+    .catr-lik {
+        width: 100%;
+    }.feedback {
+        padding: 0;
+    }
+    
+    .client-info p {
+        font-size: 14px;
+        line-height: 24px;
+    }.feedback .slick-arrow {
+        display: none;
+    }
+    
+    .catr-cnt {
+        width: 100%;
+        margin: 0 0 11px;
+    }.courses-sectn {
+        padding: 31px 0;
+    }.popular-cats {
+        padding: 40px 0;
+    }.achie-vement .sec-title.line-anmt:after {
+        background-size: auto;
+        left: 2.6rem;
+    }.achie-vement {
+        padding: 50px 0 40px;
+    }.achie-vement .eduratitle {
+        margin: 0;
+    }.count-area .col-sm-6.col-md-6 {
+        max-width: 50%;
+    }
+    
+    .cont-row {
+        display: inline-block;
+        margin: 0 0 14px;
+        width: 100%;
+        text-align: center;
+    }
+    
+    .count-icon {
+        width: 100%;
+        margin: 0 0 9px;
+    }
+    
+    .count-digit {
+        font-size: 23px;
+    }
+    
+    .count-area {
+        margin: 34px 0 0;
+    }
+        .feedback .slick-arrow {
+        display: none !important;
+    }
+    
+    .larg-lran h2 {
+        text-align: center;
+        font-size: 26px;
+    }
+    
+    .larg-lran {
+        text-align: center;
+        padding: 23px 0 0;
+    }
+    
+    a.site-btn {
+        margin: 0;
+    }.learning {
+        padding: 8px 0 31px;
+    }.footer {
+        padding: 35px 0 20px;
+    }.widget-title h2 {
+        font-size: 20px;
+    }.widget-title h2 {
+        font-size: 20px;
+    }
+    .footer .col-md-4, .footer .col-md-2 {
+        margin: 0 0 15px;
+    }
+    
+    .footer .col-md-2 {
+        max-width: 50%;
+    }
+    
+    .foot-nav li a {
+        font-size: 14px;
+        line-height: 26px;
+    }.col-md-6.login-img {
+        display: none;
+    }.logn-sprt {
+        padding: 20px 33px !important;
+    }.tutor-hd p {
+        font-size: 14px;
+        text-align: center;
+    }.tutor-hd h2 {
+        text-align: center;
+        font-size: 24px;
+        margin: 0 0 5px;
+    }.login-wrap {
+        margin: 20px 0;
+    }.btn-smt button {
+        font-size: 17px;
+    }
+    .pages-header {
+        padding: 50px 0;
+    }
+    .col-tetls h2 {
+        font-size: 22px;
+    }
+    .peset {
+        padding-left: 12px !important;
+        padding-top: 30px;
+    }
+    .leran-mrit {
+        padding-right: 12px !important;
+    }
+    .istrt-img {
+        height: 100%;
+    }
+    .ivesr {
+        margin: 15px 0;
+    }
+    .adds-post .post-title a {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .post-list-sm {
+        display: block;
+        margin: 0 0 20px;
+    
+    }
+    .thumb.circle {
+        width: 100%;
+        height: auto;
+    }
+    .develop {
+        padding-left: 12px !important;
+    }
+    .details {
+        width: 100%;
+        padding: 0 0 0 0px;
+    }
+    .mbs-arow {
+        padding: 0 0 0;
+        row-gap: 20px;
+    }
+    .Feat-box_img img {
+        width: 100%;
+    }
+    .Feat-box {
+        display: block !important;
+    }
+    .Feat-info {
+        padding: 30px 0 0;
+    }
+    .inner-content p {
+        width: 100%;
+    }
+    .Feat-info p {
+        font-size: 16px;
+        margin: 0 0 20px;
+        width: 100%;
+    }
+    .eduratitle {
+        padding: 0 0 20px;
+    }
+    .clasia-blnv li button {
+        font-size: 16px;
+        padding: 5px 5px;
+    }
+    .clasia-blnv li {
+        margin: 0;
+    }
+    .blog-sec {
+        row-gap: 20px;
+    }
+    .bl-tlt {
+        font-size: 32px;
+    }
+    p.excerpt {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .contact-form.tutor-form {
+        margin-right: 0;
+    }
+    .detail-user {
+        margin-left: 0px;
+    }
+    .inner-detail h3 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .pages-list ul li a {
+        font-size: 18px;
+        line-height: 32px;
+    }
+    .page-content h2 {
+        font-size: 32px;
+        margin: 0 0 15px;
+    }
+    .list-content h3 {
+        font-size: 20px;
+        margin: 30px 0 0px;
+    }
+    .page-content ul li a {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .page-content ul li {
+        margin: 0 0 6px;
+    }
+    .pages-list ul.nav-list {
+        padding: 0;
+    }
+    .privacy-policy-detail {
+        padding: 50px 0;
+    }
+    .profile-section {
+        padding: 50px 0;
+    }
+    .inner-profile {
+        margin: 0;
+        padding: 15px 15px 0;
+    }
+    .user-registration.tutor-form {
+        margin: 0;
+        padding: 15px 15px 0;
+    }
+    .profile-section .row {
+        padding: 30px 0 0 0;
+        row-gap: 30px;
+    }
+    .instrt h2 {
+        font-size: 22px;
+    }
+    .instrt a {
+        min-height: 50px;
+        line-height: 50px;
+        font-size: 18px;
+    }
+    .course-tab {
+        padding-top: 20px;
+    }
+    .feature-course {
+        background: #fff;
+        padding: 60px 0 100px;
+    }
+    .FAQ-section h4.panel-title a {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .FAQ-section {
+        padding: 60px 0;
+    }
+    .faq-title h2 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .catr-cnt {
+        font-size: 18px;
+    }
+    }
+    
+    
+    
+    
+    /* (1366x768) WXGA Display */
+    @media screen and (min-width: 768px) and (max-width: 1024px) {
+    
+    .Feat-box_img img {
+        width: 100%;
+    }
+    
+    .Feat-box_img {
+        width: 40%;
+    }
+    
+    .Feat-info {
+        width: 60%;
+    }
+    .Feat-info p {
+        font-size: 16px;
+        line-height: 28px;
+        margin: 0 0 0px;
+        width: 100%;
+    }
+    .Feat-info h4 {
+        font-size: 20px;
+        line-height: 28px;
+        margin: 0px 0 0px;
+    }
+    .feat-inner {
+        margin: 0 0 15px;
+    }
+    .login-hed {
+        width: 85%;
+        text-align: center;
+    }
+    .clasia-blnv li button {
+        font-size: 20px;
+    }
+    .sec-title {
+        font-size: 36px;
+    }
+    .larg-lran h2 {
+        font-size: 36px;
+    }
+    .larg-lran h2 br{
+        display: none;
+    }
+    .footer .col-md-4 {
+        width: 50%;
+    }
+    .footer .col-md-2 {
+        width: 50%;
+    }
+    .footer .row {
+        row-gap: 50px;
+    }
+    .col-tetls h2 {
+        font-size: 32px;
+    }
+    .istrt-img {
+        height: auto;
+    }
+    .instrt {
+        top: 28%;
+    }
+    .contact-form.tutor-form {
+        margin-right: 0;
+    }
+    .detail-user {
+        margin-left: 0;
+        padding: 30px 0 0;
+    }
+    .develop {
+        padding-left: 0px !important;
+    }
+    .col-tetls h2 br {
+        display: none;
+    }
+    .instrt h2 {
+        font-size: 24px;
+    }
+    
+    .instrt a {
+        min-width: 250px;
+        min-height: 52px;
+        line-height: 52px;
+        font-size: 18px;
+    }
+    .bl-tlt {
+        font-size: 32px;
+    }
+    .adds-post .post-title a {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .pages-list ul.nav-list {
+        padding: 0;
+    }
+    .page-content h2 {
+        font-size: 36px;
+        line-height: 36px;
+    }
+    .pages-list ul li a {
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .pages-list ul li {
+        list-style: none;
+        padding: 0  0 10px;
+    }
+    .detail-title h2 {
+        font-size: 36px;
+    }
+    .user-profile img {
+        width: 100%;
+    }
+    .user-profile {
+        width: 20%;
+    }
+    
+    .user-info {
+        width: 80%;
+    }
+    .inner-profile {
+        margin: 0;
+    }
+    
+    .user-registration.tutor-form {
+        margin: 0;
+    }
+    .profile-section .row {
+        padding: 40px 0 0 0;
+        row-gap: 40px;
+    }
+    .col-md-6.login-img {
+        display: none;
+    }
+    .col-md-6.logn-sprt {
+        width: 100%;
+        padding: 40px 80px !important;
+    }
+    .achie-vement .sec-title.line-anmt:after {
+        left: 4.6rem;
+    }
+    .sec-title.line-anmt:after {
+        left: 6.6rem;
+    }
+    .study h1 {
+        font-size: 42px;
+        line-height: 50px;
+    }
+    .clas-serch .btn.btn-primary {
+        width: 15%;
+    }
+    .clas-serch .form-outline {
+        width: 85%;
+    }
+    .count-icon {
+        width: 35%;
+    }
+    .tulat-cprt img {
+        max-width: 150px !important;
+    }
+    }
+    
+    
+    /* (1366x768) WXGA Display */
+    @media screen and (min-width: 1200px) and (max-width: 1366px) {
+      .tulat-cprt img {
+        max-width: 200px;
+      }
+      .tulat-cprt.mltrstp {
+        right: 0;
+      }
+      .tulat-cprt.mltrs {
+        left: -10px;
+      }
+      .tulat-cprt.ltr {
+        bottom: 20px;
+      }
+      .istrt-img {
+        height: auto;
+    }
+    .adds-post .post-title a {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .larg-lran h2 {
+        font-size: 30px;
+    }
+    .bl-tlt {
+        font-size: 30px;
+    }
+    .sec-title {
+        font-size: 38px;
+    }
+    h2.sec-title-contact {
+        font-size: 38px;
+    }
+    .inner-detail h3 {
+        font-size: 22px;
+    }
+    .tutor-hd h2 {
+        font-size: 28px;
+    }
+    .logn-sprt {
+        padding: 0 60px !important;
+    }
+    .login-img {
+        min-height: 700px;
+        background-position: -250px;
+    }
+    .tutor-hd p {
+        font-size: 18px;
+    }
+    .clasia-blnv li button {
+        font-size: 16px;
+    }
+    p.excerpt {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    a.pst-btn {
+        font-size: 14px;
+    }
+    .col-tetls h2 {
+        font-size: 30px;
+        margin: 8px 0;
+    }
+    .col-tetls h4 {
+        font-size: 18px;
+    }
+    .eduratitle p {
+        font-size: 18px;
+    }
+    .th-btn a {
+        font-size: 14px;
+    }
+    .catr-cnt {
+        font-size: 14px;
+    }
+    .count-title {
+        font-size: 16px;
+    }
+    .count-digit {
+        font-size: 26px;
+    }
+    .testi-data h4 {
+        font-size: 20px;
+    }
+    .course-title, h3.course-title a {
+        font-size: 14px;
+    }
+    .woo-price {
+        font-size: 20px;
+    }
+    .post-list-sm .post-title a {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .post-list-sm .excerpt {
+        font-size: 14px;
+    }
+    .foot-social a:last-child {
+        margin: 8px 0 0;
+    }
+    }
+    /* (1680x1050) WSXGA+ Display */
+    @media screen and (max-width: 1680px) {
+      .tulat-cprt img {
+        max-width: 200px;
+      }
+      .tulat-cprt.mltrstp {
+        right: 0;
+      }
+      .tulat-cprt.mltrs {
+        left: -10px;
+      }
+      .tulat-cprt.ltr {
+        bottom: 20px;
+      }
+    }
